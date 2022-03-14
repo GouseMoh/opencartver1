@@ -1,0 +1,125 @@
+20:41:53.110 [main] INFO  testCases.Tc_01Accountregistration - click on continue
+20:41:56.497 [main] INFO  testCases.Tc_01Accountregistration - Account registration success
+21:14:11.777 [main] INFO  testCases.Tc_01Accountregistration - launched Edge browser
+21:14:11.892 [main] INFO  testCases.Tc_01Accountregistration - Tc_01Accountregistration
+21:14:11.893 [main] INFO  testCases.Tc_01Accountregistration - Opening the app url
+21:14:15.243 [main] INFO  testCases.Tc_01Accountregistration - click on myaccount.....
+21:14:17.128 [main] INFO  testCases.Tc_01Accountregistration - click on registation account
+21:14:19.008 [main] INFO  testCases.Tc_01Accountregistration - provide user details..
+21:14:19.040 [main] INFO  testCases.Tc_01Accountregistration - Given firstname
+21:14:19.593 [main] INFO  testCases.Tc_01Accountregistration - Given lastname
+21:14:19.728 [main] INFO  testCases.Tc_01Accountregistration - Given email
+21:14:20.063 [main] INFO  testCases.Tc_01Accountregistration - Given telephone number
+21:14:20.346 [main] INFO  testCases.Tc_01Accountregistration - provided psword
+21:14:20.603 [main] INFO  testCases.Tc_01Accountregistration - conpassword
+21:14:20.860 [main] INFO  testCases.Tc_01Accountregistration - click on privacypolicy
+21:14:21.034 [main] INFO  testCases.Tc_01Accountregistration - click on continue
+21:14:23.879 [main] INFO  testCases.Tc_01Accountregistration - Account registration success
+21:16:26.278 [main] INFO  testCases.Tc_01Accountregistration - Lanched firefox browser
+21:16:26.429 [main] INFO  testCases.Tc_01Accountregistration - Tc_01Accountregistration
+21:16:26.430 [main] INFO  testCases.Tc_01Accountregistration - Opening the app url
+21:16:38.458 [main] INFO  testCases.Tc_01Accountregistration - click on myaccount.....
+21:16:40.414 [main] INFO  testCases.Tc_01Accountregistration - click on registation account
+21:16:47.150 [main] INFO  testCases.Tc_01Accountregistration - provide user details..
+21:16:47.155 [main] INFO  testCases.Tc_01Accountregistration - Given firstname
+21:16:51.041 [main] INFO  testCases.Tc_01Accountregistration - Given lastname
+21:16:52.478 [main] INFO  testCases.Tc_01Accountregistration - Given email
+21:16:54.221 [main] INFO  testCases.Tc_01Accountregistration - Given telephone number
+21:16:55.819 [main] INFO  testCases.Tc_01Accountregistration - provided psword
+21:16:56.313 [main] INFO  testCases.Tc_01Accountregistration - conpassword
+21:16:56.480 [main] INFO  testCases.Tc_01Accountregistration - click on privacypolicy
+21:16:57.135 [main] INFO  testCases.Tc_01Accountregistration - click on continue
+21:17:01.604 [main] INFO  testCases.Tc_01Accountregistration - Account registration success
+21:37:02.466 [main] INFO  testCases.Tc_01Accountregistration - Lanched firefox browser
+21:37:02.578 [main] INFO  testCases.Tc_01Accountregistration - Tc_01Accountregistration
+21:37:02.579 [main] INFO  testCases.Tc_01Accountregistration - Opening the app url
+21:37:06.520 [main] INFO  testCases.Tc_01Accountregistration - click on myaccount.....
+21:37:06.907 [main] INFO  testCases.Tc_01Accountregistration - click on registation account
+21:37:09.019 [main] INFO  testCases.Tc_01Accountregistration - provide user details..
+21:37:09.024 [main] INFO  testCases.Tc_01Accountregistration - Given firstname
+21:37:09.107 [main] INFO  testCases.Tc_01Accountregistration - Given lastname
+21:37:09.164 [main] INFO  testCases.Tc_01Accountregistration - Given email
+21:37:09.274 [main] INFO  testCases.Tc_01Accountregistration - Given telephone number
+21:37:09.328 [main] INFO  testCases.Tc_01Accountregistration - provided psword
+21:37:09.396 [main] INFO  testCases.Tc_01Accountregistration - conpassword
+21:37:09.450 [main] INFO  testCases.Tc_01Accountregistration - click on privacypolicy
+21:37:09.701 [main] INFO  testCases.Tc_01Accountregistration - click on continue
+21:37:12.491 [main] INFO  testCases.Tc_01Accountregistration - Account registration success
+21:42:20.076 [main] INFO  testCases.Tc_01Accountregistration - launched Edge browser
+21:42:20.150 [main] INFO  testCases.Tc_01Accountregistration - Tc_01Accountregistration
+21:42:20.151 [main] INFO  testCases.Tc_01Accountregistration - Opening the app url
+21:42:23.674 [main] INFO  testCases.Tc_01Accountregistration - click on myaccount.....
+21:42:24.199 [main] INFO  testCases.Tc_01Accountregistration - click on registation account
+21:42:26.039 [main] INFO  testCases.Tc_01Accountregistration - provide user details..
+21:42:26.047 [main] INFO  testCases.Tc_01Accountregistration - Given firstname
+21:42:26.258 [main] INFO  testCases.Tc_01Accountregistration - Given lastname
+21:42:26.519 [main] INFO  testCases.Tc_01Accountregistration - Given email
+21:42:26.779 [main] INFO  testCases.Tc_01Accountregistration - Given telephone number
+21:42:26.953 [main] INFO  testCases.Tc_01Accountregistration - provided psword
+21:42:27.175 [main] INFO  testCases.Tc_01Accountregistration - conpassword
+21:42:27.405 [main] INFO  testCases.Tc_01Accountregistration - click on privacypolicy
+21:42:27.506 [main] INFO  testCases.Tc_01Accountregistration - click on continue
+21:42:30.134 [main] INFO  testCases.Tc_01Accountregistration - Account registration success
+21:42:38.140 [main] INFO  testCases.Tc_01Accountregistration - Lanched firefox browser
+21:42:38.152 [main] INFO  testCases.Tc_01Accountregistration - Tc_01Accountregistration
+21:42:38.152 [main] INFO  testCases.Tc_01Accountregistration - Opening the app url
+21:42:41.508 [main] INFO  testCases.Tc_01Accountregistration - click on myaccount.....
+21:42:41.796 [main] INFO  testCases.Tc_01Accountregistration - click on registation account
+21:42:43.280 [main] INFO  testCases.Tc_01Accountregistration - provide user details..
+21:42:43.285 [main] INFO  testCases.Tc_01Accountregistration - Given firstname
+21:42:43.353 [main] INFO  testCases.Tc_01Accountregistration - Given lastname
+21:42:43.399 [main] INFO  testCases.Tc_01Accountregistration - Given email
+21:42:43.552 [main] INFO  testCases.Tc_01Accountregistration - Given telephone number
+21:42:43.617 [main] INFO  testCases.Tc_01Accountregistration - provided psword
+21:42:43.678 [main] INFO  testCases.Tc_01Accountregistration - conpassword
+21:42:43.733 [main] INFO  testCases.Tc_01Accountregistration - click on privacypolicy
+21:42:43.994 [main] INFO  testCases.Tc_01Accountregistration - click on continue
+21:42:46.682 [main] INFO  testCases.Tc_01Accountregistration - Account registration success
+23:42:32.665 [main] INFO  testCases.Tc_01Accountregistration - Lanched firefox browser
+23:42:32.757 [main] INFO  testCases.Tc_01Accountregistration - Tc_01Accountregistration
+23:42:32.758 [main] INFO  testCases.Tc_01Accountregistration - Opening the app url
+23:42:36.752 [main] INFO  testCases.Tc_01Accountregistration - click on myaccount.....
+23:42:37.041 [main] INFO  testCases.Tc_01Accountregistration - click on registation account
+23:42:38.532 [main] INFO  testCases.Tc_01Accountregistration - provide user details..
+23:42:38.536 [main] INFO  testCases.Tc_01Accountregistration - Given firstname
+23:42:38.604 [main] INFO  testCases.Tc_01Accountregistration - Given lastname
+23:42:38.710 [main] INFO  testCases.Tc_01Accountregistration - Given email
+23:42:38.812 [main] INFO  testCases.Tc_01Accountregistration - Given telephone number
+23:42:38.889 [main] INFO  testCases.Tc_01Accountregistration - provided psword
+23:42:38.954 [main] INFO  testCases.Tc_01Accountregistration - conpassword
+23:42:39.004 [main] INFO  testCases.Tc_01Accountregistration - click on privacypolicy
+23:42:39.242 [main] INFO  testCases.Tc_01Accountregistration - click on continue
+23:42:41.971 [main] INFO  testCases.Tc_01Accountregistration - Account registration success
+23:44:27.984 [main] INFO  testCases.Tc_01Accountregistration - Lanched firefox browser
+23:44:28.057 [main] INFO  testCases.Tc_01Accountregistration - Tc_01Accountregistration
+23:44:28.058 [main] INFO  testCases.Tc_01Accountregistration - Opening the app url
+23:44:31.299 [main] INFO  testCases.Tc_01Accountregistration - click on myaccount.....
+23:44:31.584 [main] INFO  testCases.Tc_01Accountregistration - click on registation account
+23:44:32.867 [main] INFO  testCases.Tc_01Accountregistration - provide user details..
+23:44:32.871 [main] INFO  testCases.Tc_01Accountregistration - Given firstname
+23:44:32.959 [main] INFO  testCases.Tc_01Accountregistration - Given lastname
+23:44:33.032 [main] INFO  testCases.Tc_01Accountregistration - Given email
+23:44:33.168 [main] INFO  testCases.Tc_01Accountregistration - Given telephone number
+23:44:33.232 [main] INFO  testCases.Tc_01Accountregistration - provided psword
+23:44:33.308 [main] INFO  testCases.Tc_01Accountregistration - conpassword
+23:44:33.364 [main] INFO  testCases.Tc_01Accountregistration - click on privacypolicy
+23:44:33.629 [main] INFO  testCases.Tc_01Accountregistration - click on continue
+23:44:36.129 [main] ERROR testCases.Tc_01Accountregistration - Account registration is fail
+14:16:44.607 [main] INFO  testCases.Tc_01Accountregistration - Lanched firefox browser
+14:16:44.887 [main] INFO  testCases.Tc_01Accountregistration - Tc_01Accountregistration
+14:16:44.887 [main] INFO  testCases.Tc_01Accountregistration - Opening the app url
+14:16:55.386 [main] INFO  testCases.Tc_01Accountregistration - click on myaccount.....
+14:16:57.111 [main] INFO  testCases.Tc_01Accountregistration - click on registation account
+14:17:00.461 [main] INFO  testCases.Tc_01Accountregistration - provide user details..
+14:17:00.465 [main] INFO  testCases.Tc_01Accountregistration - Given firstname
+14:17:02.026 [main] INFO  testCases.Tc_01Accountregistration - Given lastname
+14:17:02.251 [main] INFO  testCases.Tc_01Accountregistration - Given email
+14:17:02.777 [main] INFO  testCases.Tc_01Accountregistration - Given telephone number
+14:17:02.993 [main] INFO  testCases.Tc_01Accountregistration - provided psword
+14:17:03.195 [main] INFO  testCases.Tc_01Accountregistration - conpassword
+14:17:03.317 [main] INFO  testCases.Tc_01Accountregistration - click on privacypolicy
+14:17:03.826 [main] INFO  testCases.Tc_01Accountregistration - click on continue
+14:17:17.466 [main] ERROR testCases.Tc_01Accountregistration - Account registration is fail
+14:17:30.759 [main] INFO  testCases.Tc_002_login - Lanched firefox browser
+14:17:30.776 [main] INFO  testCases.Tc_002_login - starting Tc_002_login
+14:17:30.778 [main] FATAL testCases.Tc_002_login - Login Failed

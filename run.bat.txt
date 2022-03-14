@@ -1,0 +1,2 @@
+cd: E:\Hyd software classes\1.Pavan Selinium with java(6 nov 2021)\GMG PRACTICE\opencartVer1
+mvn clean test
